@@ -8,11 +8,18 @@ In this project, we are creating a HTML web page about UFO sightings. On this we
 
 The webpage we created has an image on top, then an article about the what type of data we have and how we gathered. Below the article we have tabular data and filters next to it.
 
+![](https://github.com/Nikhila999/UFOs/blob/main/static/images/webpage.png)
+
 
 To perform the search on the tabular data, 
 - select the filter and 
 - click on the text box next to it and type in. 
-- We have provided a default text in the filter to show the expected data format.
+- We have provided a default text in the filter to show the expected data format. Please look at the image below with all the filter search options.
+<img src="https://github.com/Nikhila999/UFOs/blob/main/static/images/default_filter.png" width="200">  
+
+- We can apply multiple filters on the data set to analyze the data. Image on the left shows the results when `State`(TX) filter is applied and image on right shows results when `State`(TX) and `Date`(1/08/2010) are applied .
+
+<img src="https://github.com/Nikhila999/UFOs/blob/main/static/images/filter_with_state.png" width="450" height="200">   <img src="https://github.com/Nikhila999/UFOs/blob/main/static/images/filter_with_state%26date.png" width="450" height="200">
 
 
 ## Summary
